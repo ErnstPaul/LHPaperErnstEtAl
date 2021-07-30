@@ -12,8 +12,8 @@ The organization is as such: besides the readme, every piece of code here is a .
 
 All major functions are in a folder labelled "FIGURES":
 
-Paul_FLH = A Formation file that produces some critical piece of data. Those data files are in their own folder if you need them.
-Paul_ELH = An External file that does not directly contribute to the paper, but still has some use in demonstrating some part of the paper.
+Paul_FLH = A Formation file that produces some critical piece of data from CMEMS altimetry / GLORYS12v1 or NOAA Blended Winds or AE_traj file.
+
 Paul_LH = A Critical file that directly produces a figure in the paper.
 
 All .mat files are in a folder labelled "MAT DATA."
