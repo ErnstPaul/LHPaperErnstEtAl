@@ -10,8 +10,14 @@ Notably, Pegliasco et al. (2015), whose algorithm we use and improve upon.
 
 The organization is as such: besides the readme, every piece of code here is a .m file or a .mat file. 
 
-Files related to specific figures will be annotated as such. .mat files associated with specific figures will be placed in their respective folders.
+Paul_FLH = A Formation file that produces some critical piece of data. Those data files are in their own folder if you need them.
+Paul_ELH = An External file that does not directly contribute to the paper, but still has some use in demonstrating some part of the paper.
+Paul_LH = A Critical file that directly produces a figure in the paper.
 
-When all is said and done, you should be able to replicate all this work easily.
+All .mat files are in a folder labelled "MAT Data."
 
-Everything here done on MATLAB2021b. Check for version dependencies. 
+All functions are in a folder labelled "Functions."
+
+When all is said and done, you should be able to replicate all this work easily, assuming you can get the rights to the Eddy Tracking Steps.
+
+Everything here done on MATLAB2021a. Check for version dependencies. 
